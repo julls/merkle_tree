@@ -1,0 +1,9 @@
+Learning about Merkle Trees and Rust by implementing a very simplified version in C++ && Rust.
+
+C++: 
+cd cplusplus
+mkdir build 
+cd build 
+cmake ..
+make
+./merkle_tree_tests
